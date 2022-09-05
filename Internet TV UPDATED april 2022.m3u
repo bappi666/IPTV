@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo=""group-title="Bangla",ATN Bangla
+http://103.55.144.46/hls/atn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo=""group-title="Bangla",Channel I
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo=""group-title="Bangla",GTV
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo=""group-title="Bangla",Gaan Bangla
+http://103.55.144.46/hls/gb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent Tv" tvg-logo=""group-title="Bangla",Independent Tv
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo=""group-title="Bangla",Jamuna TV
+http://103.55.144.46/hls/jamuna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo=""group-title="Bangla",Maasranga TV
+http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo=""group-title="Bangla",Somoy TV
+http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nexus TV" tvg-logo=""group-title="Bangla",Nexus TV HD
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akash Aath" tvg-logo=""group-title="Indian Bangla",Akash Aath
+http://103.55.144.46/hls/akash.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo=""group-title="Indian Bangla",Colors Bangla
+http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla Cinema" tvg-logo=""group-title="Indian Bangla",Colors Bangla Cinema
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enterr10 Bangla" tvg-logo=""group-title="Indian Bangla",Enterr10 Bangla
+http://103.55.144.46/hls/enterr10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khushboo Bangla" tvg-logo=""group-title="Indian Bangla",Khushboo Bangla
+http://103.55.144.46/hls/khushboo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indian Bangla",Star Jalsha
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies" tvg-logo="" group-title="Indian Bangla",Jalsha Movies
+http://103.55.144.46/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo=""group-title="Indian Bangla",Sony Aath
+http://103.55.144.46/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo=""group-title="Indian Bangla",Sun Bangla
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo=""group-title="Indian Bangla",Zee  Bangla
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo=""group-title="Indian Bangla",Zee Bangla Cinema 
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo=""group-title="Indian Bangla",Sangeet Bangla 
+http://103.55.144.46/hls/sangeetbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo=""group-title="Hindi",9xm
+http://103.55.144.46/hls/9xm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo=""group-title="Hindi",&pictures
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bindass" tvg-logo=""group-title="Hindi",Bindass
+http://103.55.144.46/hls/bindass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B-Masti " tvg-logo=""group-title="Hindi",B-Masti 
+http://103.55.144.46/hls/masti.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors TV" tvg-logo=""group-title="Hindi",Colors TV
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo=""group-title="Hindi",Colors Cineplex
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak 2" tvg-logo=""group-title="Hindi",Dhinchaak 2
+http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="StarPlus" tvg-logo=""group-title="Hindi",StarPlus
+http://103.55.144.46/hls/starplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="StarGold" tvg-logo=""group-title="Hindi",StarGold
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo=""group-title="Hindi",Star Gold 2
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo=""group-title="Hindi",Sony 
+http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SET Max" tvg-logo=""group-title="Hindi",SET Max
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="UTV Action" tvg-name="" tvg-logo=""group-title="Hindi",UTV Action
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo=""group-title="Hindi",Zee TV
+http://103.55.144.46/hls/zeetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo=""group-title="Hindi",Zee Cinema
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo=""group-title="Hindi",Zoom
+http://103.55.144.46/hls/zoom.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bhojpuri" tvg-logo=""group-title="Hindi",Sangeet Bhojpuri
+http://103.55.144.46/hls/bhojpuri.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo=""group-title="Kids channels",Duronto TV
+http://103.55.144.46/hls/duranta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo=""group-title="Kids channels",Sony Yay
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo=""group-title="Kids channels",Nick
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo=""group-title="Kids channels",Cartoon Network
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pogo TV" tvg-logo=""group-title="Kids channels",Pogo TV
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp" tvg-logo=""group-title="Informative channels",Travelxp
+http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="BBC Earth"group-title="Informative channels",BBC Earth
+http://103.55.144.46/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo=""group-title="Informative channels",Animal Planet
+http://103.55.144.46/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo=""group-title="Informative channels",Discovery Channel
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo=""group-title="Informative channels",Discovery Science
+http://103.55.144.46/hls/dis-science.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo=""group-title="Informative channels",National Geographic
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo=""group-title="Informative channels",Nat Geo Wild
+http://103.55.144.46/hls/wild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo=""group-title="Informative channels",TLC
+http://103.55.144.46/hls/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo=""group-title="English",AXN
+http://103.55.144.46/hls/axn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo=""group-title="English",AXN
+http://103.55.144.46/hls/lotus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MN+HD" tvg-logo=""group-title="English",MN+HD
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo=""group-title="English",MNX HD
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo=""group-title="English",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star World" tvg-logo=""group-title="English",Star World
+http://103.55.144.46/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo=""group-title="English",Star Movies
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo=""group-title="English",Sony Pix
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo=""group-title="International News",Al Jazeera
+http://103.55.144.46/hls/aljazeera.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo=""group-title="International News",BBC World News
+http://103.55.144.46/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel" tvg-logo=""group-title="Islam",Madani Channel
+http://103.55.144.46/hls/madani.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Quran TV" tvg-logo=""group-title="Islam",Quran TV
+http://103.55.144.46/hls/qurqntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo=""group-title="Sport",GTV
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo=""group-title="Sport",T Sports
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo=""group-title="Sport",PTV Sports
+http://103.55.144.46/hls/ptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo=""group-title="Sport",Ten Sports
+http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo=""group-title="Sport",Sony Six
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo=""group-title="Sport",Sony Ten 1
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo=""group-title="Sport",Sony Ten 2
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo=""group-title="Sport",Sony Ten 3
+http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="" group-title="Sport",Star Sports 1
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="Sport",Star Sports 2
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="" group-title="Sport",Star Sports Select 1
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="" group-title="Sport",Star Sports Select 2
+http://103.55.144.46/hls/select2.m3u8
+
+
+
