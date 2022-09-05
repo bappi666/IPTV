@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Asian tv" tvg-logo=""group-title="Bangla",Asian tv
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo=""group-title="Bangla",ATN Bangla
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo=""group-title="Bangla",ATN News
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo=""group-title="Bangla",Bangla TV
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision" tvg-logo=""group-title="Bangla",Banglavision
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo=""group-title="Bangla",Bijoy TV HD
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo=""group-title="Bangla",Boishakhi TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo=""group-title="Bangla",BTV
+http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv World" tvg-logo=""group-title="Bangla",Btv World 
+http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo=""group-title="Bangla",Channel 24
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo=""group-title="Bangla",Channel 9
+http://10.16.100.208:8082/hindi/chanNel9nine_1$top.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i" tvg-logo=""group-title="Bangla",Channel i
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo=""group-title="Bangla",DBC News
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo=""group-title="Bangla",Deepto TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo=""group-title="Bangla",Desh TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo=""group-title="Bangla",Ekattor HD
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo=""group-title="Bangla",Ekushey TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo=""group-title="Bangla",Gaan Bangla
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="Bangla",GTV
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo=""group-title="Bangla",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo=""group-title="Bangla",Maasranga TV 
+http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo=""group-title="Bangla",Mohona TV
+http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV" tvg-logo=""group-title="Bangla",My TV
+http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Bangla",NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo=""group-title="Bangla",Nagorik TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo=""group-title="Bangla",News24
+http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo=""group-title="Bangla",RTV
+http://10.16.100.204:8082/hls/rtv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo=""group-title="Bangla",SA TV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo=""group-title="Bangla",Somoy TV
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo=""group-title="Bangla",T Sports
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Indian Bangla",Akash 8
+http://10.16.100.204:8082/hls/akash_aat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo=""group-title="Indian Bangla",Colors Bangla
+http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo=""group-title="Indian Bangla",Sony Aath
+http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indian Bangla",Star Jalsha
+http://10.16.100.208:8082/hindi/$tarjasl@_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo=""group-title="Indian Bangla",Zee  Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo=""group-title="Sport",GTV
+http://10.16.100.207:8088/sports/GazItv_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo=""group-title="Sport",T Sports
+http://10.16.100.207:8088/sports/t$sports_loacal@.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo=""group-title="Sport",PTV Sports
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo=""group-title="Sport",Sony Six
+http://10.16.100.207:8088/sports/sony6six_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo=""group-title="Sport",Sony Ten 1
+http://10.16.100.203:8082/bangla/ten101hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo=""group-title="Sport",Sony Ten 2
+http://10.16.100.207:8088/sports/ten2hd_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo=""group-title="Sport",Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="" group-title="Sport",Star Sports 1
+http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="Sport",Star Sports 2
+http://10.16.100.207:8088/sports/starSports2Tw0hd_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="" group-title="Sport",Star Sports Select 1
+http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="" group-title="Sport",Star Sports Select 2
+http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
+
+
